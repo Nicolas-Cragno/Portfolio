@@ -1,5 +1,6 @@
 body {
-	background: url(../images/8-bits.jpg);
+	/*background: url(../images/8-bits.jpg);*/
+	background-color: #c7f6d4;
 	width: 100%;
 	background-size: cover;
 }
